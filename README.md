@@ -1,2 +1,2 @@
 # hackerrank
-Coding challenges with solutions
+Python & SQL coding problems with solutions
